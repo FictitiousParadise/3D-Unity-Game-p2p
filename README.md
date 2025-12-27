@@ -28,3 +28,6 @@ The game focuses on teamwork, exploration, and coordination. Your success depend
 ⚠️ This project was built for learning and academic purposes. Some assets and systems were implemented as part of studying multiplayer mechanics. Performance may vary depending on hardware and network stability.
 
 📚 Technologies Used: Unity Engine, C#, Mirror Networking (P2P), 3D Game Development Concepts.
+
+This project was developed as part of my graduation journey and learning experience.
+Special thanks to the open-source community and learning resources that made this possible.
